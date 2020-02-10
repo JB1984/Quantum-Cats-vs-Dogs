@@ -1,5 +1,5 @@
-# QuantumCatClassifier
-Quantum Computing classifier using Pennylane
+# Quantum Cats vs Dogs
+Quantum Computing Machine Learning Classifier using Pennylane
 
 <h1>STEPS TO SETUP PROGRAM</h1>
 <br>
