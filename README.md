@@ -9,7 +9,8 @@ Quantum Computing classifier using Pennylane
 
 3. Run the Quantum Cats vs Dogs notebook
 <br><br>
-
+<hr>
+<h1>ABOUT THIS PROJECT</h1>
 This project is based on an implementation of the Data-reuploading Classifier listed here https://pennylane.ai/qml/app/tutorial_data_reuploading_classifier.html
 <br><br>
 It uses the above implementation and then expands on that to create a classifier for images. My implementation only requies one Qubit to run. It may be possible to expand this in the future to multiple Qubits using a hadamard gate to entangle another Qubit with the first one.
